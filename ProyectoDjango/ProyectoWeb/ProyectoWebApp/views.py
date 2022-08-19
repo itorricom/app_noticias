@@ -4,11 +4,11 @@ from django.shortcuts import render, HttpResponse
 
 def inicio(request):
     
-    return render(request, "ProyectoWebApp/index.html")
+    return render(request, "ProyectoWebApp/index.php")
 
 def servicios(request):
     
-    return render(request, "ProyectoWebApp/servicios.html")
+    return render(request, "ProyectoWebApp/servicios.php")
 
 def tienda(request):
     

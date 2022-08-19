@@ -4,7 +4,7 @@
 
 {% load static %}
 
-<title>GRUPO Nro. 2 PYTHON HTML</title>
+<title>SERVICIOS</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -161,14 +161,14 @@
           </div>
           <div class="single_iteam"> <a href="pages/single_page.html"> <img src="{% static 'ProyectoWebApp/images/slider3.jpg' %}" alt=""></a>
             <div class="slider_article">
-              <h2><a class="slider_tittle" href="pages/single_page.html">Últimas Noticias de la Iglesia Adventista en Ucrania</a></h2>
-              <p>El Director del grupo Hope Media de #Ucrania 🇺🇦 comparte algunas de las últimas #noticias de la Iglesia #Adventista en ese país, tras la invasión por...</p>
+              <h2><a class="slider_tittle" href="pages/single_page.html">Ãšltimas Noticias de la Iglesia Adventista en Ucrania</a></h2>
+              <p>El Director del grupo Hope Media de #Ucrania ðŸ‡ºðŸ‡¦ comparte algunas de las Ãºltimas #noticias de la Iglesia #Adventista en ese paÃ­s, tras la invasiÃ³n por...</p>
             </div>
           </div>
           <div class="single_iteam"> <a href="pages/single_page.html"> <img src="{% static 'ProyectoWebApp/images/slider4.jpg' %}" alt=""></a>
             <div class="slider_article">
-              <h2><a class="slider_tittle" href="pages/single_page.html">Destaques de reunión mundial adventista</a></h2>
-              <p>Realizado último concilio antes de la 61º Asamblea de la Asociación General. Vea las noticias adventistas mundiales.Vea más contenidos de la Iglesia Adventi...</p>
+              <h2><a class="slider_tittle" href="pages/single_page.html">Destaques de reuniÃ³n mundial adventista</a></h2>
+              <p>Realizado Ãºltimo concilio antes de la 61Âº Asamblea de la AsociaciÃ³n General. Vea las noticias adventistas mundiales.Vea mÃ¡s contenidos de la Iglesia Adventi...</p>
             </div>
           </div>
         </div>
@@ -181,27 +181,27 @@
             <ul class="latest_postnav">
               <li>
                 <div class="media"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  Más que enseñanza - Noticias - Adventistas 1</a> </div>
+                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  MÃ¡s que enseÃ±anza - Noticias - Adventistas 1</a> </div>
                 </div>
               </li>
               <li>
                 <div class="media"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post1.jpg' %}"> </a>
-                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 1</a> </div>
+                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 1</a> </div>
                 </div>
               </li>
               <li>
                 <div class="media"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post2.jpg' %}"> </a>
-                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title">Más que enseñanza - Noticias - Adventistas 2</a> </div>
+                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title">MÃ¡s que enseÃ±anza - Noticias - Adventistas 2</a> </div>
                 </div>
               </li>
               <li>
                 <div class="media"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post3.jpeg' %}"> </a>
-                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 3</a> </div>
+                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 3</a> </div>
                 </div>
               </li>
               <li>
                 <div class="media"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post4.jpg' %}"> </a>
-                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                  <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                 </div>
               </li>
             </ul>
@@ -231,22 +231,22 @@
               <ul class="spost_nav">
                 <li>
                   <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                   </div>
                 </li>
                 <li>
                   <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img2.jpg' %}"> </a>
-                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  Más que enseñanza - Noticias - Adventistas 2</a> </div>
+                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  MÃ¡s que enseÃ±anza - Noticias - Adventistas 2</a> </div>
                   </div>
                 </li>
                 <li>
                   <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  Más que enseñanza - Noticias - Adventistas 3</a> </div>
+                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  MÃ¡s que enseÃ±anza - Noticias - Adventistas 3</a> </div>
                   </div>
                 </li>
                 <li>
                   <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img2.jpg' %}"> </a>
-                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                    <div class="media-body"> <a href="pages/single_page.html" class="catg_title">  MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                   </div>
                 </li>
               </ul>
@@ -267,22 +267,22 @@
                 <ul class="spost_nav">
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img2.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 3</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 3</a> </div>
                     </div>
                   </li>
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img2.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                 </ul>
@@ -302,22 +302,22 @@
                 <ul class="spost_nav">
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img2.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img1.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                   <li>
                     <div class="media wow fadeInDown"> <a href="pages/single_page.html" class="media-left"> <img alt="" src="{% static 'ProyectoWebApp/images/post_img2.jpg' %}"> </a>
-                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> Más que enseñanza - Noticias - Adventistas 4</a> </div>
+                      <div class="media-body"> <a href="pages/single_page.html" class="catg_title"> MÃ¡s que enseÃ±anza - Noticias - Adventistas 4</a> </div>
                     </div>
                   </li>
                 </ul>
@@ -503,7 +503,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="footer_widget wow fadeInLeftBig">
-            <h2>Imágenes de Flickr</h2>
+            <h2>ImÃ¡genes de Flickr</h2>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
