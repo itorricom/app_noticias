@@ -67,9 +67,7 @@
         <div class="header_top">
           <div class="header_top_left">
             <ul class="top_nav">
-              <li><a href="index.html">Inicio</a></li>
-              <li><a href="#">Acerca de</a></li>
-              <li><a href="pages/contact.html">Contactos</a></li>
+              <li><a href="login.php">LOGIN</a></li>
             </ul>
           </div>
           <div class="header_top_right">
@@ -108,7 +106,8 @@
           <li><a href="#">Especiales</a></li>
           <li><a href="pages/contact.html">Necrologicoas</a></li>
           <li><a href="pages/404.html">Contacto</a></li>
-        </ul>
+          <li><a href="pages/404.html">login</a></li>
+          </ul>
       </div>
     </nav>
   </section>
