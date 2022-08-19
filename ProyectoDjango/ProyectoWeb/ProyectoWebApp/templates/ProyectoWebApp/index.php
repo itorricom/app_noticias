@@ -67,7 +67,7 @@
         <div class="header_top">
           <div class="header_top_left">
             <ul class="top_nav">
-              <li><a href="login.php">LOGIN</a></li>
+              <li><a href="{% static 'ProyectoWebApp/login.php' %}">LOGIN</a></li>
             </ul>
           </div>
           <div class="header_top_right">
